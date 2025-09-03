@@ -20,8 +20,7 @@ The project uses three raw input tables to simulate a small-scale retail environ
 
 - Columns: Product ID, Product Name, Product Cost, Item Category, Item Name, Qty in Inventory.
 ### Notes on Data Quality
-
-- Data is intentionally imperfect to mimic real-world scenarios:
+ Data is intentionally imperfect to mimic real-world scenarios:
     
     - Duplicate customer records
         
@@ -29,7 +28,7 @@ The project uses three raw input tables to simulate a small-scale retail environ
         
     - Missing or poorly formatted entries
         
-- These issues made the **data cleaning and transformation** stage meaningful, as Power Query was used to standardize types, fix errors, and merge datasets into a consistent model.
+These issues made the **data cleaning and transformation** stage meaningful, as Power Query was used to standardize types, fix errors, and merge datasets into a consistent model.
 
 ## Workflow
 
